@@ -1,9 +1,8 @@
-
+# InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
-## Name: Levaku lakshmi mounika
-## Reg num: 212223100026
+
 # AIM:
 
 To perform information gathering techniques using kali linux 
@@ -23,27 +22,21 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-
-## whois.com:
-![image](https://github.com/user-attachments/assets/56266c21-ddf5-4977-957e-4f4c7a14f00c)
-## iplocator :
-![image](https://github.com/user-attachments/assets/e683625b-c116-4c4d-b4f3-3be03a84664f)
-## Webarchive :
-![image](https://github.com/user-attachments/assets/b3cae6a7-c79c-4a19-843d-d1bcae4fb940)
-## nmap :
-![Screenshot 2025-04-07 132645](https://github.com/user-attachments/assets/8f68bf09-0519-4a41-b4dc-11e6a4ac890b)
-
-## Whatweb :
-![Screenshot 2025-04-07 132935](https://github.com/user-attachments/assets/533adaef-2d6e-4f50-8174-2e24cb449e24)
-## Traceroute :
-![image](https://github.com/user-attachments/assets/bb491be9-ad2b-4862-9e30-a23c89f29ba9)
-## Ping :
-![image](https://github.com/user-attachments/assets/8be454da-7c8c-4c58-90ac-d95414c00e12)
-## Netcat :
-![image](https://github.com/user-attachments/assets/f5987d49-cdc4-49be-afdb-50c9b3ebd8b4)
-## UDP AND ICMP Traceroute :
-![image](https://github.com/user-attachments/assets/db55bafd-44e8-4fdf-86d4-2ff119990964)
-![image](https://github.com/user-attachments/assets/2d3d4849-9ebe-44b4-8b97-c747b61c9d4a)
+# WHOIS:
+![image](https://github.com/user-attachments/assets/2c400b19-dd18-4bc3-a7b5-27817cd21c81)
+# IP2LOCATION:
+![image](https://github.com/user-attachments/assets/79bd9fa4-ad36-4cc5-88e4-ad051cb75227)
+# WEB ARCHIVE:
+![image](https://github.com/user-attachments/assets/6ca674b5-855c-4ab3-b184-15cd3ba1d95e)
+# NMAP:
+![image](https://github.com/user-attachments/assets/51b3872c-47f7-4ad7-84e7-9ede891343f7)
+# WHATWEB:
+![image](https://github.com/user-attachments/assets/d07c0b4c-4118-4983-8fe6-6b9f1d0c09e0)
+# HTTP PRINT:
+![image](https://github.com/user-attachments/assets/6d902dc5-58b5-4124-9781-8d858e477ea8)
+# TRACEROUTE:
+![image](https://github.com/user-attachments/assets/f863f8cf-0761-4bd8-b2c3-0c312b233449)
+![image](https://github.com/user-attachments/assets/3e7862d3-898d-46dc-995b-a85c0aed69ff)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
