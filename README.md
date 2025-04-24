@@ -1,8 +1,9 @@
-# EXPERIMENT-02- InformationGathering
+
 Information Gathering Techiques
 
 # To perform information gathering techniques
-
+## Name: Levaku lakshmi mounika
+## Reg num: 212223100026
 # AIM:
 
 To perform information gathering techniques using kali linux 
@@ -23,45 +24,26 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/f6826459-e76b-479e-987e-043ce5588b5c)
+## whois.com:
+![image](https://github.com/user-attachments/assets/56266c21-ddf5-4977-957e-4f4c7a14f00c)
+## iplocator :
+![image](https://github.com/user-attachments/assets/e683625b-c116-4c4d-b4f3-3be03a84664f)
+## Webarchive :
+![image](https://github.com/user-attachments/assets/b3cae6a7-c79c-4a19-843d-d1bcae4fb940)
+## nmap :
+![Screenshot 2025-04-07 132645](https://github.com/user-attachments/assets/8f68bf09-0519-4a41-b4dc-11e6a4ac890b)
 
-## Finding IP address:
-![image](https://github.com/user-attachments/assets/5d382dd1-0842-4471-8f27-44bb6db919b6)
-
-## Finding Hosting Company
-![image](https://github.com/user-attachments/assets/d923edcb-2283-49b0-9cbc-404b9ce475fe)
-
-## History of the Website
-![Screenshot 2025-03-07 133546](https://github.com/user-attachments/assets/e01e8db3-3670-4a99-894f-f39c289dd955)
-
-
-## Web server Fingerprint
-![image](https://github.com/user-attachments/assets/8e944f2a-d1c1-4345-9c67-880847f72d59)
-
-## nmap
-![image](https://github.com/user-attachments/assets/2d45942f-322c-4d75-a74b-9713bf743343)
-
-## Whatweb
-![image](https://github.com/user-attachments/assets/94faced7-3af9-4fed-853d-419396f26d76)
-
-## TCP Traceroute
-![image](https://github.com/user-attachments/assets/16af94dd-e038-4203-92e4-3295d57f4ac6)
-
-## UDP Traceroute
-![image](https://github.com/user-attachments/assets/2bd16e91-be60-4b67-9de9-2e206d402339)
-
-## ICMP Traceroute
-![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
-
-## Whois:
-![image](https://github.com/user-attachments/assets/6e8a62ef-c18c-4f92-aa02-064f64995bce)
-
-## nslookup:
-![image](https://github.com/user-attachments/assets/d53c3a81-ec2e-451f-a63b-5ea16d3c90da)
-
-## httprint:
-![image](https://github.com/user-attachments/assets/793731fd-31b3-46ad-9d21-34052792b30c)
-
+## Whatweb :
+![Screenshot 2025-04-07 132935](https://github.com/user-attachments/assets/533adaef-2d6e-4f50-8174-2e24cb449e24)
+## Traceroute :
+![image](https://github.com/user-attachments/assets/bb491be9-ad2b-4862-9e30-a23c89f29ba9)
+## Ping :
+![image](https://github.com/user-attachments/assets/8be454da-7c8c-4c58-90ac-d95414c00e12)
+## Netcat :
+![image](https://github.com/user-attachments/assets/f5987d49-cdc4-49be-afdb-50c9b3ebd8b4)
+## UDP AND ICMP Traceroute :
+![image](https://github.com/user-attachments/assets/db55bafd-44e8-4fdf-86d4-2ff119990964)
+![image](https://github.com/user-attachments/assets/2d3d4849-9ebe-44b4-8b97-c747b61c9d4a)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
